@@ -11,8 +11,10 @@ I was familiar with research field during my postgraduate education.
 | Research Scientist           | KSAA                 | Building materials research               | 09.2015 - 09.2019      |
 
 ### Education 
-- [**Refresher training**](img/refresher_training_ds.jpeg) in Data Science at National University of Science and Technology "MISIS" (11.2020 — 02.2021)
-- [**Specialist Degree**](img/diploma_pages/diploma_page_3.jpg/) in Environmental and Natural Resource Management at Lomonosov Moscow State University (2009 - 2014)
+- PHD CANDIDATE IN CIVIL ENGINEERING (2019)
+- DIPLOMA IN TRANSPORT & IFRASTRUCTURE (2018)
+- DIPLOMA IN STRUCTURAL ENGINEERING (2015)
+- BACHELOR DEGREE IN CIVIL ENGINEERING (2014)
 
 ### Mentoring experience
 Tech/concept support and training new employees on my previous jobs
