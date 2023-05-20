@@ -26,6 +26,11 @@ Tech/concept support and training new employees on my previous jobs
 ### Kaggle 
 https://www.kaggle.com/aesedeu
 
+I am a strong-willed person with an active attitude to life. I am a quick learner, and everytime I want to develop myself
+both professionally and personally.
+
+In my spare time I work at my leather workshop, I have my own small brand. Also I have been playing guitar for almost 15 years and I really enjoy with cooking. I'm a big fan of gym, swimming and climbing. I like coding on Python, learn data analysis and to solve complicated math tasks.
+
 ### Some badges:
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
