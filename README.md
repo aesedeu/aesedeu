@@ -26,6 +26,8 @@ Tech/concept support and training new employees on my previous jobs
 ### Kaggle 
 https://www.kaggle.com/aesedeu
 
+### Other
+
 I am a strong-willed person with an active attitude to life. I am a quick learner, and everytime I want to develop myself
 both professionally and personally.
 
