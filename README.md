@@ -22,7 +22,7 @@ Tech/concept support and training new employees on my previous jobs
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/awe_eu)
 
 ### Kaggle 
-[![Kaggle](https://www.kaggle.com/aesedeu)
+https://www.kaggle.com/aesedeu
 
 ### Some badges:
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
