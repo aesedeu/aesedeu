@@ -7,7 +7,7 @@ Now I decided to change all my life..
 ### Work experience 
 | Job Position                 | Company              | Field                                     | Work Period            |
 | -----------------------------| ---------------------| ------------------------------------------| -----------------------|
-| **Data Scientist**           | **Self education**   | **Data Science**                          | **11.2022 - till now** |
+| **Data Scientist**           | **Self education**   | **Data Science**                          | **11.2022 - current**  |
 | Deputy CTO                   | CCCC Ltd.            | Construction project management           | 06.2019 - 05.2023      |
 | Construction Engineer        | Mostotrest           | Construction                              | 08.2016 - 06.2019      |
 | Research Scientist           | KSAA                 | Building materials research               | 09.2015 - 09.2019      |
