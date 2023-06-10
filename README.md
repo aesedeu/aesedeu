@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I was familiar with research field during my postgraduate education.
+My name is Eugene. I have an engineering backround and academical reseraches in my past. I was familiar with research field and data science during my postgraduate education.
+Now I decided to change all my life..
 
 ### Work experience 
 | Job Position                 | Company              | Field                                     | Work Period            |
