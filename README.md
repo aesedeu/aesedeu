@@ -7,8 +7,9 @@ Now I decided to change all my life..
 ### Work experience 
 | Job Position                 | Company              | Field                                     | Work Period            |
 | -----------------------------| ---------------------| ------------------------------------------| -----------------------|
-| **Data Scientist**           | **Self education**   | **Data Science**                          | **11.2022 - current**  |
-| Deputy CTO                   | CCCC Ltd.            | Construction project management           | 06.2019 - 05.2023      |
+| **Data Scientist**           | Synchro (S8 Capital) | E-commerce, traiding                      | **09.2023 - current**  |
+| Data Analyst                 | SBERBANK             | Financial                                 | 07.2023 - 09.2023      |
+| Deputy CTO                   | CCCC Ltd.            | Project management                        | 06.2019 - 05.2023      |
 | Construction Engineer        | Mostotrest           | Construction                              | 08.2016 - 06.2019      |
 | Research Scientist           | KSAA                 | Building materials research               | 09.2015 - 09.2019      |
 
