@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-My name is Eugene. I have an engineering backround and academical reseraches in my past. I was familiar with research field and data science during my postgraduate education.
-
-Now I decided to change all my life..
+My name is Eugene, inspired Data Scientist. I have an engineering backround and academical reseraches in my past.
 
 ### Work experience 
 | Job Position                 | Company              | Field                                     | Work Period            |
