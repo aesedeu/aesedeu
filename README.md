@@ -8,8 +8,8 @@ My name is Eugene, inspired Data Scientist. I have an engineering backround and 
 | **Data Scientist**           | Synchro (S8 Capital) | E-commerce, traiding                      | **09.2023 - current**  |
 | Data Analyst                 | SBERBANK             | Financial                                 | 07.2023 - 09.2023      |
 | Deputy CTO                   | CCCC Ltd.            | Project management                        | 06.2019 - 05.2023      |
-| Construction Engineer        | Mostotrest           | Construction                              | 08.2016 - 06.2019      |
-| Research Scientist           | KSAA                 | Building materials research               | 09.2015 - 09.2019      |
+| Engineer-researcher          | Mostotrest           | Construction                              | 08.2016 - 06.2019      |
+| Research Scientist           | KSAA                 | Materials research                        | 09.2015 - 09.2019      |
 
 ### Education 
 - PHD CANDIDATE IN CIVIL ENGINEERING (2019)
