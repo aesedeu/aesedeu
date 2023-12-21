@@ -1,14 +1,15 @@
 ## Hi there 👋
 
 My name is Eugene, inspired Data Scientist. I have an engineering backround and academical reseraches in my past.
+Currently working as Data Scientist, developing Recommender Systems and NLP/NLU models.
 
 ### Work experience 
 | Job Position                 | Company              | Field                                     | Work Period            |
 | -----------------------------| ---------------------| ------------------------------------------| -----------------------|
-| **Data Scientist**           | Synchro (S8 Capital) | E-commerce, traiding                      | **09.2023 - current**  |
+| **Data Scientist**           | SYNCHRO              | E-commerce, traiding                      | **09.2023 - current**  |
 | Data Analyst                 | SBERBANK             | Financial                                 | 07.2023 - 09.2023      |
 | Deputy CTO                   | CCCC Ltd.            | Project management                        | 06.2019 - 05.2023      |
-| Engineer-researcher          | Mostotrest           | Construction                              | 08.2016 - 06.2019      |
+| Researcher                   | PJSC Mostotrest      | Construction                              | 08.2016 - 06.2019      |
 | Research Scientist           | KSAA                 | Materials research                        | 09.2015 - 09.2019      |
 
 ### Education 
@@ -18,8 +19,8 @@ My name is Eugene, inspired Data Scientist. I have an engineering backround and 
 - BACHELOR DEGREE IN CIVIL ENGINEERING (2014)
 
 ### Mentoring experience
-Tech/concept support and training new employees on my previous jobs
-
+- Python/DA/DS private teacher
+- Tech/concept support and training new employees on my current and previous jobs
 
 ### Contact me 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/awe_eu)
