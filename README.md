@@ -10,7 +10,7 @@ Currently working as Data Scientist, developing Recommender Systems and NLP/NLU 
 | Data Analyst                 | SBERBANK             | Financial                                 | 07.2023 - 09.2023      |
 | Deputy CTO                   | CCCC Ltd.            | Project management                        | 06.2019 - 05.2023      |
 | Researcher                   | PJSC Mostotrest      | Construction                              | 08.2016 - 06.2019      |
-| Research Scientist           | KSAA                 | Materials research                        | 09.2015 - 09.2019      |
+| Research Scientist           | KSAA                 | Academic research                         | 09.2015 - 09.2019      |
 
 ### Education 
 - PHD CANDIDATE IN CIVIL ENGINEERING (2019)
