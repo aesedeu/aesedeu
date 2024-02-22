@@ -6,7 +6,7 @@ Currently working as Data Scientist, developing Recommender Systems and NLP/NLU 
 ### Work experience 
 | Job Position                 | Company              | Field                                     | Work Period            |
 | -----------------------------| ---------------------| ------------------------------------------| -----------------------|
-| **Data Scientist**           | SYNCHRO              | E-commerce, traiding                      | **09.2023 - current**  |
+| **Data Scientist**           | SYNCHRO (S8 Capital) | E-commerce, traiding                      | **09.2023 - current**  |
 | Data Analyst                 | SBERBANK             | Financial                                 | 07.2023 - 09.2023      |
 | Deputy CTO                   | CCCC Ltd.            | Project management                        | 06.2019 - 05.2023      |
 | Researcher                   | PJSC Mostotrest      | Construction                              | 08.2016 - 06.2019      |
