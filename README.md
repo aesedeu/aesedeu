@@ -3,6 +3,8 @@
 My name is Eugene, inspired Data Scientist. I have an engineering backround and academical reseraches in my past.
 Currently working as Data Scientist, developing Recommender Systems and NLP/NLU models.
 
+In my free time I teach privately students for python, analytics, statistics and machine learning.
+
 ### Work experience 
 | Job Position                 | Company              | Field                                     | Work Period            |
 | -----------------------------| ---------------------| ------------------------------------------| -----------------------|
@@ -47,7 +49,7 @@ both professionally and personally.
 
 In my spare time I work at my leather workshop, I have my own small brand. Also I have been playing guitar for almost 15 years and I really enjoy with cooking. I'm a big fan of gym, swimming and climbing. I like coding on Python, learn data analysis and to solve complicated math tasks.
 
-### Some badges:
+### Techs I'm working with:
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)]([https://jupyter.org](https://pytorch.org/))
 [![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
