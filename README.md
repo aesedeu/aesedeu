@@ -1,17 +1,18 @@
 ## Hi there 👋
 
-My name is Eugene, inspired Data Scientist. I have an engineering backround and academical reseraches in my past.
+My name is Eugene, I'm inspired Data Scientist. I have an engineering backround and academical reseraches in my past.
 Currently working as Data Scientist, developing Recommender Systems and NLP/NLU models.
 
-In my free time I teach privately students for python, analytics, statistics and machine learning.
+In my free time I teach privately python, analytics, statistics and machine learning.
 
 ### Work experience 
 | Job Position                 | Company              | Field                                     | Work Period            |
 | -----------------------------| ---------------------| ------------------------------------------| -----------------------|
 | **Data Scientist**           | SYNCHRO (S8 Capital) | E-commerce, traiding                      | **09.2023 - current**  |
 | Data Analyst                 | SBERBANK             | Financial                                 | 07.2023 - 09.2023      |
+| Data Scientist               | Self-employed        | Consulting                                | 11.2022 - 07.2023      |
 | Deputy CTO                   | CCCC Ltd.            | Project management                        | 06.2019 - 05.2023      |
-| Researcher                   | PJSC Mostotrest      | Construction                              | 08.2016 - 06.2019      |
+| Tech Analyst                 | PJSC Mostotrest      | Construction                              | 08.2016 - 06.2019      |
 | Research Scientist           | KSAA                 | Academic research                         | 09.2015 - 09.2019      |
 
 ### Education 
