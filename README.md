@@ -11,9 +11,9 @@ In my free time I teach privately python, analytics, statistics and machine lear
 | **Data Scientist**           | SYNCHRO (S8 Capital) | E-commerce, traiding                      | **09.2023 - current**  |
 | Data Analyst                 | SBERBANK             | Financial                                 | 07.2023 - 09.2023      |
 | Data Scientist               | Self-employed        | Consulting                                | 11.2022 - 07.2023      |
-| Deputy CTO                   | CCCC Ltd.            | Project management                        | 06.2019 - 05.2023      |
+| Deputy CTO                   | CCCC Ltd.            | Project management                        | 06.2019 - 07.2023      |
 | Tech Analyst                 | PJSC Mostotrest      | Construction                              | 08.2016 - 06.2019      |
-| Research Scientist           | KSAA                 | Academic research                         | 09.2015 - 09.2019      |
+| Research Scientist           | Alma mater           | Academic research                         | 09.2015 - 09.2019      |
 
 ### Education 
 - PHD CANDIDATE IN CIVIL ENGINEERING (2019)
