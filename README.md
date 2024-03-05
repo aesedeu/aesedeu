@@ -5,7 +5,7 @@ Currently working as Data Scientist, developing Recommender Systems and NLP/NLU 
 
 In my free time I teach privately python, analytics, statistics and machine learning.
 
-### Work experience 
+<span style="color:skyblue">### Work experience</span>. 
 | Job Position                 | Company              | Field                                     | Work Period            |
 | -----------------------------| ---------------------| ------------------------------------------| -----------------------|
 | **Data Scientist**           | SYNCHRO (S8 Capital) | E-commerce, traiding                      | **09.2023 - current**  |
