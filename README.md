@@ -45,7 +45,7 @@ In my free time I teach privately python, analytics, statistics and machine lear
 I am a strong-willed person with an active attitude to life. I am a quick learner, and everytime I want to develop myself
 both professionally and personally.
 
-In my spare time I work at my leather workshop, I have my own small brand. Also I have been playing guitar for almost 15 years and I really enjoy with cooking. I'm a big fan of gym, swimming and climbing. I like coding on Python, learn data analysis and to solve complicated math tasks.
+In my spare time I work at my leather workshop, I have my own small brand. Also I have been playing guitar for almost 15 years and I really enjoy with cooking. I'm a big fan of gym, swimming and climbing. I like coding on Python, learning smth new in MLOps and solving complicated math tasks.
 
 ### Techs I'm working with:
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]()
