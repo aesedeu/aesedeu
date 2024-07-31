@@ -3,28 +3,6 @@
 My name is Eugene, I'm inspired Data Scientist. I have an engineering backround and academical reseraches in my past.
 Currently working as Data Scientist, developing Recommender Systems and NLP/NLU models.
 
-In my free time I teach privately python, analytics, statistics and machine learning.
-
-### Work experience 
-| Job Position                 | Company              | Field                                     | Work Period            |
-| -----------------------------| ---------------------| ------------------------------------------| -----------------------|
-| **Data Scientist**           | SYNCHRO (S8 Capital) | E-commerce, traiding                      | **09.2023 - current**  |
-| Data Analyst                 | SBERBANK             | Financial                                 | 07.2023 - 09.2023      |
-| Data Scientist               | Self-employed        | Consulting                                | 11.2022 - 07.2023      |
-| Deputy CTO                   | CCCC Ltd.            | Project management                        | 06.2019 - 07.2023      |
-| Tech Analyst                 | PJSC Mostotrest      | Construction                              | 08.2016 - 06.2019      |
-| Research Scientist           | Alma mater           | Academic research                         | 09.2015 - 09.2019      |
-
-### Education 
-- PHD CANDIDATE IN CIVIL ENGINEERING (2019)
-- DIPLOMA IN TRANSPORT & IFRASTRUCTURE (2018)
-- DIPLOMA IN STRUCTURAL ENGINEERING (2015)
-- BACHELOR DEGREE IN CIVIL ENGINEERING (2014)
-
-### Mentoring experience
-- Python/DA/DS private teacher
-- Tech/concept support and training new employees on my current and previous jobs
-
 ### Contact me 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/awe_eu)
 
