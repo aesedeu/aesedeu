@@ -1,7 +1,4 @@
-## Hi there 👋
-
-My name is Eugene, I'm inspired Data Scientist. I have an engineering backround and academical reseraches in my past.
-Currently working as Data Scientist, developing Recommender Systems and NLP/NLU models.
+**ML Engineer**
 
 ### Contact me 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/awe_eu)
@@ -9,7 +6,7 @@ Currently working as Data Scientist, developing Recommender Systems and NLP/NLU 
 ### Kaggle 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/aesedeu)
 
-### Publications and conferences
+### Papers and conferences
 - Chernov E.I., Rusina V.V. Concretes for enclosing structures on the basis of waste of wood machinig. Stroitel'nye Materialy [Building Materials]. 2017. No.9, pp. 32-35. (In Russian)
 - Chernov E.I., Rusina V.V. Peculiarities of selection of the composition of organic-mineral concretes on the basis of anthropogenic raw materials. Stroitel'nye Materialy [Building Materials]. 2018. No.10, pp. 36-39. (In Russian)
 - "68th student scientific conference" (Kostroma, 2017);
@@ -17,13 +14,6 @@ Currently working as Data Scientist, developing Recommender Systems and NLP/NLU 
 - “The latest achievements and advances in the development of technical sciences. Issue III "Collection of scientific papers on the basis of the international scientific and practical (Krasnodar, 2018),
 - "XLII International scientific and practical conference" Results of research activities 2018: inventions, methods, innovations "(Moscow, 2018),
 - “Innovative development of modern science. Problems, patterns, prospects. Collection of articles of the IX International Scientific and Practical Conference "(Penza, 2018).
-
-### Other
-
-I am a strong-willed person with an active attitude to life. I am a quick learner, and everytime I want to develop myself
-both professionally and personally.
-
-In my spare time I work at my leather workshop, I have my own small brand. Also I have been playing guitar for almost 15 years and I really enjoy with cooking. I'm a big fan of gym, swimming and climbing. I like coding on Python, learning smth new in MLOps and solving complicated math tasks.
 
 ### Techs I'm working with:
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]()
