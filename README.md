@@ -1,5 +1,7 @@
 **ML Engineer**
 
+Here you can find a great garbage of my repos. Welcome.
+
 ### Contact me 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/awe_eu)
 
