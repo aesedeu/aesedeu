@@ -3,8 +3,6 @@
 ### Contact me 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/awe_eu)
 
-### Kaggle 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/aesedeu)
 
 ### Papers and conferences
 - Chernov E.I., Rusina V.V. Concretes for enclosing structures on the basis of waste of wood machinig. Stroitel'nye Materialy [Building Materials]. 2017. No.9, pp. 32-35. (In Russian)
